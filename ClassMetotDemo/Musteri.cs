@@ -7,10 +7,9 @@
         public string Surname { get; set; }
         public string TcNo { get; set; }
         public string Gender { get; set; }
-
-
+        public string MaidenName { get; set; }
+        public int CountOfProperty { get; set; }
     }
-
 }
 
 
